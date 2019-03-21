@@ -2064,15 +2064,21 @@
 		background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 	}
 
-	.modal-content {
-		font-size: 1.5vw;
-		background-color: rgba(2, 2, 2, 0.32);
-		margin: auto;
-		padding: 20px;
-		border: 1px solid #888;
-		width: 30%;
-		font-weight: normal;
-		font-style: normal;
+
+	/**
+	*   Normal Display
+	*/
+	@media screen and (min-width: 376px) {
+		.modal-content {
+			font-size: 1.5vw;
+			background-color: rgba(2, 2, 2, 0.32);
+			margin: auto;
+			padding: 20px;
+			border: 1px solid #888;
+			width: 30%;
+			font-weight: normal;
+			font-style: normal;
+		}
 	}
 
 	.close {
@@ -2087,4 +2093,20 @@
 		color: red;
 		text-decoration: none;
 		cursor: pointer;
+	}
+
+	/**
+	*   Mobile Display
+	*/
+	@media screen and (max-width: 375px) {
+		.modal-content {
+			font-size: 5.5vw;
+			background-color: rgba(2, 2, 2, 0.32);
+			margin: auto;
+			padding: 20px;
+			border: 1px solid #888;
+			width: 90%;
+			font-weight: normal;
+			font-style: normal;
+		}
 	}

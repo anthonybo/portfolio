@@ -10,7 +10,7 @@ $(function () {
 
         if(name == '' || email == '' || message == '') {
             modal('You must complete the form');
-            
+
             return false;
         }
 
