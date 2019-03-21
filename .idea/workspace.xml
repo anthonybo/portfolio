@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3228cb8-07ca-418b-942f-ed26568771f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/js/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="155" column="43" lean-forward="true" selection-start-line="155" selection-start-column="43" selection-end-line="155" selection-end-column="43" />
+            <state relative-caret-position="2325">
+              <caret line="155" column="43" selection-start-line="155" selection-start-column="43" selection-end-line="155" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -43,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-371">
+            <state relative-caret-position="4950">
               <caret line="330" column="43" selection-start-line="330" selection-start-column="43" selection-end-line="330" selection-end-column="43" />
             </state>
           </provider>
@@ -52,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="2111" column="5" lean-forward="true" selection-start-line="2111" selection-start-column="5" selection-end-line="2111" selection-end-column="5" />
+            <state relative-caret-position="156">
+              <caret line="1927" column="5" lean-forward="true" selection-start-line="1927" selection-start-column="5" selection-end-line="1927" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -81,6 +83,8 @@
       <find>reset</find>
       <find>form</find>
       <find>demo</find>
+      <find>tech-ski</find>
+      <find>tech-si</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -172,18 +176,19 @@
       <updated>1552935199832</updated>
       <workItem from="1552935204368" duration="15000" />
       <workItem from="1552935259084" duration="568000" />
-      <workItem from="1553016525168" duration="26602000" />
+      <workItem from="1553016525168" duration="26826000" />
+      <workItem from="1553140967875" duration="1220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27185000" />
+    <option name="totallyTimeSpent" value="28629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1374" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2575075" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26126125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,13 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-371">
-          <caret line="330" column="43" selection-start-line="330" selection-start-column="43" selection-end-line="330" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/email_config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -273,10 +271,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail_handler.php">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="155" column="43" selection-start-line="155" selection-start-column="43" selection-end-line="155" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -287,24 +292,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/elements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="4950">
+          <caret line="330" column="43" selection-start-line="330" selection-start-column="43" selection-end-line="330" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/mail_handler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="155" column="43" lean-forward="true" selection-start-line="155" selection-start-column="43" selection-end-line="155" selection-end-column="43" />
+        <state relative-caret-position="498">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="2111" column="5" lean-forward="true" selection-start-line="2111" selection-start-column="5" selection-end-line="2111" selection-end-column="5" />
+        <state relative-caret-position="156">
+          <caret line="1927" column="5" lean-forward="true" selection-start-line="1927" selection-start-column="5" selection-end-line="1927" selection-end-column="5" />
         </state>
       </provider>
     </entry>
