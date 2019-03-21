@@ -150,7 +150,14 @@
 							<h2>Let's Talk</h2>
 							<p>Go ahead and send me a message!</p>
 						</header>
-						<form method="post" action="#">
+						<form id="contact-form" method="post" action="">
+							<div id="myModal" class="modal">
+								<div class="modal-content">
+									<span class="close">&times;</span>
+									<span class="message"></span>
+								</div>
+							</div>
+
 							<div class="row gtr-uniform">
 								<div class="col-6 col-12-xsmall">
 									<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
@@ -193,6 +200,7 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/form.js"></script>
 
 	</body>
 </html>
