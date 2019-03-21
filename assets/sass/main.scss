@@ -1922,9 +1922,16 @@
 
 	/* Technical Skill Icons */
 
+	.wrapper.style5 .icon.major:hover {
+		border-color: #2fb1a4;
+		background: #2fb1a42e;
+	}
+
 	.tech-skills {
 		position: relative;
 		overflow: hidden;
+		transition: transform .4s ease-in;
+		-webkit-transition: -webkit-transform .4s ease-in;
 	}
 
 	.tech-skills:before {
@@ -1940,6 +1947,13 @@
 		-ms-transform: rotate(30deg);
 		-o-transform: rotate(30deg);
 		transform: rotate(30deg);
+	}
+
+	.tech-skills:hover {
+		-webkit-transform: rotate(-45deg) translate(10px,-10px);
+		transform: rotate(-45deg) translate(10px,-10px);
+		-webkit-transition: -webkit-transform .4s ease-out;
+		transition: transform .4s ease-out;
 	}
 
 	.js-background:before {
