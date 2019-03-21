@@ -3425,5 +3425,12 @@ body.is-mobile.landing #footer {
     font-style: normal;
   }
 }
+/*
+*	Project Styles
+*/
+.center-image {
+  display: block;
+  margin: 2em auto;
+}
 
 /*# sourceMappingURL=main.css.map */
