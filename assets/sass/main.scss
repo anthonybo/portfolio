@@ -978,11 +978,14 @@
 		width: 100%;
 
 		li {
-			@include padding(4em, 4em, (0,0,0,2em));
-			display: block;
+			//@include padding(4em, 4em, (0,0,0,2em));
+			//display: block;
 			position: relative;
 			text-align: left;
-			width: 50%;
+			width: 33%;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
 
 			@for $i from 1 through _misc(max-features) {
 				$j: 0.035 * $i;
