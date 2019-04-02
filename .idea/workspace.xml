@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3228cb8-07ca-418b-942f-ed26568771f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="211" column="157" selection-start-line="211" selection-start-column="157" selection-end-line="211" selection-end-column="157" />
-              <folding>
-                <element signature="e#8412#8419#1" expanded="true" />
-                <element signature="e#9813#9819#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -31,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elements.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4995">
-              <caret line="333" column="32" selection-start-line="333" selection-start-column="32" selection-end-line="353" selection-end-column="42" />
+            <state relative-caret-position="264">
+              <caret line="351" column="856" selection-start-line="351" selection-start-column="856" selection-end-line="351" selection-end-column="856" />
             </state>
           </provider>
         </entry>
@@ -40,8 +33,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="2159" column="36" selection-start-line="2159" selection-start-column="36" selection-end-line="2159" selection-end-column="36" />
+            <state relative-caret-position="593">
+              <caret line="2170" column="5" selection-start-line="2170" selection-start-column="5" selection-end-line="2170" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mail_handler.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="868">
+              <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -76,6 +87,10 @@
       <find>front</find>
       <find>project-but</find>
       <find>project-buttons</find>
+      <find>background-image</find>
+      <find>one</find>
+      <find>two</find>
+      <find>three</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,6 +136,12 @@
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -183,7 +204,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43085000" />
+    <option name="totallyTimeSpent" value="43214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1374" height="877" extended-state="0" />
@@ -291,21 +312,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mail_handler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/elements.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4995">
-          <caret line="333" column="32" selection-start-line="333" selection-start-column="32" selection-end-line="353" selection-end-column="42" />
+        <state relative-caret-position="264">
+          <caret line="351" column="856" selection-start-line="351" selection-start-column="856" selection-end-line="351" selection-end-column="856" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/form.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
+        <state relative-caret-position="868">
           <caret line="59" selection-start-line="59" selection-end-line="59" selection-end-column="2" />
         </state>
       </provider>
@@ -326,19 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/sass/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="2159" column="36" selection-start-line="2159" selection-start-column="36" selection-end-line="2159" selection-end-column="36" />
+        <state relative-caret-position="593">
+          <caret line="2170" column="5" selection-start-line="2170" selection-start-column="5" selection-end-line="2170" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="211" column="157" selection-start-line="211" selection-start-column="157" selection-end-line="211" selection-end-column="157" />
-          <folding>
-            <element signature="e#8412#8419#1" expanded="true" />
-            <element signature="e#9813#9819#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="123" column="37" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
         </state>
       </provider>
     </entry>
