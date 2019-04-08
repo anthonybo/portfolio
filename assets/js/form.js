@@ -9,9 +9,12 @@ $(function () {
         let message = e.target[2].value;
 
         if(name == '' || email == '' || message == '') {
-            modal('You must complete the form');
+            modal('You must complete the form', false);
 
             return false;
+        } else {
+            var elem = document.querySelector('#sendButton');
+            elem.style.visibility = 'hidden';
         }
 
         $.ajax({
@@ -27,14 +30,17 @@ $(function () {
                 var messageText = data;
 
                 if (messageAlert && messageText) {
-                    modal(messageText);
+                    modal(messageText, true);
                 }
+            },
+            error: function(error) {
+                modal('There was an error contacting the server.', false)
             }
         });
         return false;
     }
 
-    function modal(messageText) {
+    function modal(messageText , clearForm) {
         var modal = document.getElementById('myModal');
         var span = document.getElementsByClassName("close")[0];
 
@@ -55,7 +61,12 @@ $(function () {
 
         modal.style.display = "block";
 
-        $('#contact-form')[0].reset();
+        if(clearForm){
+            $('#contact-form')[0].reset();
+        }
+
+        var elem = document.querySelector('#sendButton');
+        elem.style.visibility = '';
     }
 })
 });
