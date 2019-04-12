@@ -54,7 +54,9 @@ $mail->AltBody = $message;
 
 if(!$mail->send()) {
     echo 'Message could not be sent.';
-    echo 'Mailer Error: ' . $mail->ErrorInfo;
+//    echo 'Mailer Error: ' . $mail->ErrorInfo;
+    echo ' Please contact me directly through my ' . '<a href="mailto:abocchino@mail.csuchico.edu">' . 'email'  . '</a>';
+
 } else {
     echo 'Message has been sent';
 }
